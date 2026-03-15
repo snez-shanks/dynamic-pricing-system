@@ -114,8 +114,10 @@ B.Tech IT (ML & Data Analytics)
 
 ## 📸 Application Preview
 
+## 📸 Application Preview
+
 ### Dashboard
-![Dashboard](images/1.png)
+![Dashboard](images/11.png)
 
 ### Demand Prediction
 ![Demand Prediction](images/2.png)
@@ -130,4 +132,6 @@ B.Tech IT (ML & Data Analytics)
 ![Forecast Results](images/5.png)
 
 ### Model Output
-![Model Output](images/6.png)
+![Model Output](images/66.png)
+
+
