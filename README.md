@@ -100,9 +100,10 @@ https://dynamic-pricing-system-kf4whxlwhfqcwfj3liyfov.streamlit.app
 
 ## Author
 
-Sneha shankarwal 
-B.Tech IT (ML & Data Analytics)
+## 👩‍💻 Author
 
+Sneha Shankarwal  
+B.Tech (IT) – Machine Learning & Data Analytics
 ---
 
 ## Future Improvements
