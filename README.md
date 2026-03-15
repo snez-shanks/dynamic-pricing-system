@@ -112,7 +112,7 @@ B.Tech IT (ML & Data Analytics)
 • Integration with e-commerce APIs  
 • Automated pricing optimization engine
 
-## 📸 Application Preview
+
 
 ## 📸 Application Preview
 
