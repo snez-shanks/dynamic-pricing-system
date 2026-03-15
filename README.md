@@ -111,3 +111,11 @@ B.Tech IT (ML & Data Analytics)
 • Advanced demand forecasting models  
 • Integration with e-commerce APIs  
 • Automated pricing optimization engine
+## Application Preview
+
+![Dynamic Pricing Dashboard](images/1.png)
+![Dynamic Pricing Dashboard](images/2.png)
+![Dynamic Pricing Dashboard](images/3.png)
+![Dynamic Pricing Dashboard](images/4.png)
+![Dynamic Pricing Dashboard](images/5.png)
+![Dynamic Pricing Dashboard](images/6.png)
