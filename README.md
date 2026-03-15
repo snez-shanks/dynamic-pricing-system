@@ -100,7 +100,7 @@ https://dynamic-pricing-system-kf4whxlwhfqcwfj3liyfov.streamlit.app
 
 ## Author
 
-Sneha Rajput  
+Sneha shankarwal 
 B.Tech IT (ML & Data Analytics)
 
 ---
