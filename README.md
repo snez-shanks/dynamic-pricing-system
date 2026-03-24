@@ -1,34 +1,4 @@
-# AI Dynamic Pricing System for E-commerce
 
-This project builds an AI-powered dynamic pricing system that predicts the optimal price of a product based on market conditions.
-
-The system analyzes demand, competitor pricing, stock availability, product rating, seasonality, and discount levels to recommend the best price.
-
----
-
-## Features
-
-• Machine Learning price prediction model  
-• Demand forecasting using Prophet  
-• Automatic price optimization logic  
-• Interactive dashboard using Streamlit  
-• Data visualization for business insights  
-
----
-
-## Technologies Used
-
-Python  
-Streamlit  
-Scikit-learn  
-Prophet  
-Pandas  
-NumPy  
-Matplotlib  
-Seaborn  
-Plotly  
-
----
 
 ## Project Structure
 # AI Dynamic Pricing System for E-commerce
